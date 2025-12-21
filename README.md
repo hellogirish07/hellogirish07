@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Girish Suthar<br><br>💻 A passionate Frontend Web Developer who loves building clean, interactive, and user-friendly web applications.<br>🚀 I enjoy learning by building real projects and continuously improving my skills.<br><br>🔭 I’m currently working on<br>Improving my frontend skills through real-world projects<br>Building web apps using HTML, CSS, JavaScript<br>Exploring better UI/UX and modern web design practices<br><br>🌱 I’m currently learning<br>Advanced JavaScript concepts<br>Responsive & modern UI design<br>Better Git & GitHub workflows<br><br>⚡ Fun fact<br>I learn best by building projects rather than just watching tutorials 😄
+👋 Hi, I'm Girish Suthar<br><br>💻 A passionate Frontend Web Developer who loves building clean, interactive, and user-friendly web applications.<br>🚀 I enjoy learning by building real projects and continuously improving my skills.<br>🚀 I build modern frontend apps using JavaScript & React with clean UI and smooth UX. <br><br>
+🔭 I’m currently working on<br>Improving my frontend skills through real-world projects<br>Building web apps using HTML, CSS, JavaScript<br>Exploring better UI/UX and modern web design practices<br><br>🌱 I’m currently learning<br>Advanced JavaScript concepts<br>Responsive & modern UI design<br>Better Git & GitHub workflows<br><br>⚡ Fun fact<br>I learn best by building projects rather than just watching tutorials 😄
 
 
 ## 🌐 Socials:
